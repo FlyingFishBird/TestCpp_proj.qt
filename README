@@ -1,0 +1,20 @@
+install:
+	copy this dir under your cocos2d-x's TestCpp project's dir.
+	eg:
+		cp -r TestCpp_proj.qt $HOME/cocos2dx/samples/TestCpp
+
+
+note:
+	1.this project is only fit for a linux OS which install qtcreator and 
+	have installed my qtcreator templete
+	(
+	 see my another repository:
+			https://github.com/FlyingFishBird/cocos2d-x_2_0_4_templete_for_qtcreator
+	)
+
+	2.because on linux that CCEditBox is not fitted and you will get some compile 
+		error's.just compent this code.
+
+
+
+
